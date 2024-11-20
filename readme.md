@@ -2,24 +2,24 @@
 
 ## BeCoder
 
-Hi, I'm Pierre, fresh beCoder student from Malmedy.
-I'm very enthousiast about learning new super powers like Javascript, HTML and CSS.
+Hi, I'm Pierre, fresh beCoder student from Oostende.
+I'm very enthousiast about learning new super powers like Javascript, HTML and Ju-Jitsu Brésilien.
 
 ### Some of my surprising skills :
 
 - Making Chocolate
 - Practicing screen printing on crepes
-- Builing my own analogic cameras
+- Building my own analogic cameras
 
 ### My favorite three things in the universe :
 
 - Foraging mushrooms
-- Reading a new Sci-Fi novel
+- Reading a new Hentai
 - Hiking
 
 ### My Becode objectives :
 
-My goal is to learn new programming skills and find new brainfucked challenge to achieve.
+My goal is to goal some goals
 
 ### My fears :
 
@@ -27,7 +27,7 @@ lol
 
 ### What i'm looking forward :
 
-I'm really impatient to start group projects and challenging our teamwork skills with our new super powers.
+Become the new power rangers.
 
 ### The three best quality to working together :
 
@@ -36,7 +36,7 @@ I'm really impatient to start group projects and challenging our teamwork skills
 - Humility. Every one in a team has his own knowledge, situation and role.
 
 
-![my best gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzaTB6bmVrZGRqOHNpdmZpcHpqbGMxZjZtdG5uZmF1Yjlvcm84cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4nBKBWxcWzcdMJX2W/giphy.gif)
+![my best gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM4MzlobjE1a2J4ZDNrcDdhOHh0bXpjb3V6aTZ1eGtndmtpZGF4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lxcz7ntpCKJfq/giphy.gif)
 
 
 
