@@ -1,6 +1,6 @@
 # SANDRE Pierre
 
-## Hardcore BeCoder
+## BeCoder
 
 Hi, I'm Pierre, fresh beCoder student from Malmedy.
 I'm very enthousiast about learning new super powers like Javascript, HTML and CSS.
