@@ -11,9 +11,9 @@ I'm very enthousiast about learning new super powers like Javascript, HTML and C
 - Practicing screen printing on crepes
 - Builing my own analogic cameras
 
-### My favorite three things in the universe :
+###  My favorite three things in the universe :
 
-- Foraging mushrooms
+- ** Foraging ** mushrooms
 - Reading a new Sci-Fi novel
 - Hiking
 
